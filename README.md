@@ -1,6 +1,15 @@
 # coding-etudes
 Etudes of code for practicing
 
+# Ruby
+
+## Prime Factors
+
+    bundle install
+    bundle exec rspec
+
+  Get the tests to pass. Adapted from [www.objectmentor.com](www.objectmentor.com)
+
 # Rails
 
 1. From memory, perform all the steps in the current [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
